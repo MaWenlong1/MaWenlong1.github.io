@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kubernetes on 个人博客</title>
+    <link>http://MaWenlong1.github.io/tags/kubernetes/</link>
+    <description>Recent content in Kubernetes on 个人博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jun 2017 20:18:57 +0800</lastBuildDate>
+    
+	<atom:link href="http://MaWenlong1.github.io/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>微服务管理框架service mesh——istio安装笔记</title>
+      <link>http://MaWenlong1.github.io/posts/my-first-post/</link>
+      <pubDate>Thu, 01 Jun 2017 20:18:57 +0800</pubDate>
+      
+      <guid>http://MaWenlong1.github.io/posts/my-first-post/</guid>
+      <description>第一步 第二步 第三步  测试</description>
+    </item>
+    
+  </channel>
+</rss>
